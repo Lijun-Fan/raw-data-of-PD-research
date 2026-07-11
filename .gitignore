@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Original file split into LFS parts for GitHub upload limits
+original image/Figure5/Fig 5J/original.psb
